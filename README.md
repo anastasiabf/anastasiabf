@@ -1,6 +1,6 @@
 # Hi there, I'm Anastasia 👋
 ## Introduction
-Welcome to Anastasia's repository. I'm a Biomedical Engineering graduate who is passionate about machine learning and data science. Here you can see some project that I developed. Some technologies I enjoy working with include Python, SQL, Pascal and its libraries like NumPy, Pandas, Scikit-Learn, TensorFlow, PyTorch, etc.
+Welcome to Anastasia's repository. I'm a Biomedical Engineering graduate and currently working as an Artificial Intelligence Researcher. Here you can see some project that I developed. Some technologies I enjoy working with include Python, SQL, Pascal and its libraries like NumPy, Pandas, Scikit-Learn, TensorFlow, PyTorch, etc.
 
 ## 💾 My Projects
 Here are some projects that I developed in field of machine learning, deep learning, computer vision, and signal processing.
