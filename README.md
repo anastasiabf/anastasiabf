@@ -1,6 +1,16 @@
 # Hi there, I'm Anastasia 👋
+
 ## Introduction
-Welcome to Anastasia's repository. I'm a Biomedical Engineering graduate and currently working as an Artificial Intelligence Researcher. Here you can see some project that I developed. Some technologies I use include machine learning, deep learning, natural language processing, computer vision, and signal processing. Recently, I have also been building applied AI and data-driven product development projects, including an issue monitoring app and an inflation prediction system that combines machine learning with LLM-based sentiment analysis.
+
+I'm an AI Engineer with experience building production-grade AI systems powered by Large Language Models (LLMs), Machine Learning, and Multi-Agent Architectures.
+
+My work focuses on designing end-to-end AI solutions, including intelligent document processing, retrieval-augmented generation (RAG), AI agents, predictive analytics, and decision intelligence platforms. I have developed systems for large-scale news and social media analysis, multimodal document understanding, legal knowledge retrieval across Indonesian regulations, and machine learning-driven forecasting.
+
+I am passionate about transforming cutting-edge AI research into scalable products that create measurable business impact.
+
+**Areas of Interest:** Generative AI • AI Agents • RAG • NLP • Machine Learning • Computer Vision • Predictive Analytics • AI Product Engineering
+
+Explore my repositories to see some of the projects I've built and experimented with.
 
 ## 💾 My Projects
 Here are some projects that I developed in field of machine learning, deep learning, computer vision, and signal processing.
