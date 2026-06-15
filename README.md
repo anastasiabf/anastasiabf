@@ -1,13 +1,6 @@
 # Hi there, I'm Anastasia 👋
 ## Introduction
-Welcome to Anastasia's repository. I'm a Biomedical Engineering graduate and currently working as an Artificial Intelligence Researcher. Here you can see some project that I developed. Some technologies I use include machine learning, deep learning, natural language processing, computer vision, and signal processing.
-
-## 🚀 Latest Update
-I'm currently building and updating projects in applied AI and data-driven product development.
-
-- **client-issue-monitoring-app** — recently updated on June 13, 2026; built with HTML and currently using the `development` branch.
-- **inflation-prediction** — recently updated on June 13, 2026; an AI system for predicting Indonesian monthly inflation using machine learning plus LLM-based sentiment analysis, with an interactive dashboard and policy simulation engine.
-- **Current focus** — practical AI systems, predictive analytics, and research-driven product development.
+Welcome to Anastasia's repository. I'm a Biomedical Engineering graduate and currently working as an Artificial Intelligence Researcher. Here you can see some project that I developed. Some technologies I use include machine learning, deep learning, natural language processing, computer vision, and signal processing. Recently, I have also been building applied AI and data-driven product development projects, including an issue monitoring app and an inflation prediction system that combines machine learning with LLM-based sentiment analysis.
 
 ## 💾 My Projects
 Here are some projects that I developed in field of machine learning, deep learning, computer vision, and signal processing.
