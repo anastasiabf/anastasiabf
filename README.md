@@ -16,6 +16,7 @@ Explore my repositories to see some of the projects I've built and experimented 
 Here are some projects that I developed in field of machine learning, deep learning, computer vision, and signal processing.
 | Projects | Field | Technology | URL |
 | --- | --- | --- |--- |
+| Road Condition Analyzer | Computer Vision, Deep Learning, AI | <a href="https://www.python.org/"><img align="left" title="Python" width="20px" src="https://logos-download.com/wp-content/uploads/2016/10/Python_logo_icon.png"></a> | [Repository](https://github.com/anastasiabf/road-condition-analyzer) |
 | legal-knowledge-graph | Generative AI, NLP, Knowledge Graphs | <a href="https://www.python.org/"><img align="left" title="Python" width="20px" src="https://logos-download.com/wp-content/uploads/2016/10/Python_logo_icon.png"></a> | [Repository](https://github.com/anastasiabf/legal-knowledge-graph) |
 | client-issue-monitoring-app | Large Language Model, Web Development, Issue Monitoring | <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img align="left" title="HTML" width="20px" src="https://www.w3.org/html/logo/downloads/HTML5_Logo_32.png"></a> | [Repository](https://github.com/anastasiabf/client-issue-monitoring-app) |
 | inflation-prediction | Machine Learning, Large Language Model, Predictive Analytics | <a href="https://www.python.org/"><img align="left" title="Python" width="20px" src="https://logos-download.com/wp-content/uploads/2016/10/Python_logo_icon.png"></a> | [Repository](https://github.com/anastasiabf/inflation-prediction) |
